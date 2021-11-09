@@ -1,0 +1,26 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Hola este es el proyecto del grupo 3, Una aplicación para una tienda de ropa, donde el cliente podrá ver el catálogo de prendas con su respectiva información y realizar la compra online. Por otra parte, el administrador podrá hacer login para modificar la información a cerca de los productos disponibles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricardom/tienda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cricardom/tienda/issues"
+  },
+  "homepage": "https://github.com/cricardom/tienda#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
